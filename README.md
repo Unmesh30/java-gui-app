@@ -188,8 +188,3 @@ Use it freely for academic, personal, or commercial projects.
 📧 [unmeshachar02@gmail.com](mailto:unmeshachar02@gmail.com)
 🔗 [GitHub Profile](https://github.com/Unmesh30)
 📘 [Project Repository](https://github.com/Unmesh30/java-gui-app)
-
----
-
-🙏 *If you found this useful, please ⭐ star the repository and share it!*
-🚩 **Jai Siya Ram | Jai Hanuman Ji Ki Jai**
